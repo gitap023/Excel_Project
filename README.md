@@ -42,4 +42,6 @@ The project requires the following dependencies:
 -------------------------------------------
 Software or tools for data cleaning (e.g., Excel).
 Microsoft Excel for creating the dashboard and pivot table.
+![HiCi - Africa Food Export-1](https://github.com/gitap023/Excel_Project/assets/129049035/aebfcef4-1523-4f1d-b102-b7b0cbf9a43f)
+
 
