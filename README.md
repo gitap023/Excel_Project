@@ -35,8 +35,8 @@ Obtain the raw data from the EU Food Safety Standard Agency Portal.
 Perform data cleaning using the appropriate software or tools (e.g., Excel).
 Create the Excel dashboard by importing the cleaned data and setting up interactive visualizations and pivot tables.
 Adjust the dashboard as needed to reflect the latest data or update the data source accordingly.
-Explore the dashboard to gain insights into the determinants and risks associated with food exports to the EU market.
-Dependencies
+Explore the dashboard to gain insights into the determinants and risks associated with food exports to the EU market
+Dependencies.
 
 The project requires the following dependencies:
 -------------------------------------------
